@@ -344,7 +344,7 @@
 - ["How To Create A GitHub Profile README"](https://www.youtube.com/watch?v=Y1z7_GfEPiE) - *Program With Erik*
 - ["Next Level GitHub Profile README"](https://youtu.be/ECuqb5Tv9qI) - *codeSTACKr*
 
-## Contribute
+## Contribute:
 
 Contributions are always welcome!
 Please read the [contribution guidelines](contributing.md) first.
@@ -352,7 +352,7 @@ Please read the [contribution guidelines](contributing.md) first.
 ## Special Thanks 🙇
 - [Zetao Zhuang](https://github.com/zzetao) for making the amazing site for this repo!
 
-## License 
+## License:
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
